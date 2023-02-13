@@ -1,0 +1,12 @@
+.bg-dark {top: 10px;
+  position: relative;
+}
+.text-center-img{
+    text-align: center !important;
+    position: absolute;
+    top: 30%;
+    left: 70%;
+    font-family: 'Roboto';
+    color: #96d0db;
+    transform: translate(-30%, -30%);
+  }
